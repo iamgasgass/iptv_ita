@@ -14,7 +14,7 @@
 ## Installazione alternativa 
 
 - Copiare e incollare il seguente link nella tua app IPTV preferita:
-—> "https://github.com/iamgasgass/iptv_ita/raw/branch/main/lista.m3u"
+—> "[https://github.com/iamgasgass/iptv_ita/raw/branch/main/lista.m3u](https://github.com/iamgasgass/iptv_ita/blob/main/lista.m3u)"
 
 ## Guida tv
 
@@ -44,7 +44,7 @@ Per ulteriori informazioni o supporto, contatta sviluppatore OG nel fediverso @P
 
 ## LICENSE
 
-https://github.com/iamgasgass/iptv_ita/blob/master/LICENSE
+https://github.com/iamgasgass/iptv_ita/blob/main/LICENSE
 
 
 **Buona Visione**
