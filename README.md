@@ -14,9 +14,10 @@
 ## Installazione alternativa 
 
 - Copiare e incollare il seguente link nella tua app IPTV preferita:
-—> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/lista.m3u
+- 
+  —> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/lista.m3u
 
-—> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/playlist_plus.m3u8
+  —> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/playlist_plus.m3u8
 
 ## Guida tv
 
