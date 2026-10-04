@@ -13,7 +13,7 @@
 
 ## Installazione alternativa 
 
-- Copiare e incollare il seguente link nella tua app IPTV preferita:
+- Copiare e incollare link nella tua app IPTV preferita:
   
   —> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/lista.m3u
 
