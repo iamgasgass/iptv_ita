@@ -14,7 +14,7 @@
 ## Installazione alternativa 
 
 - Copiare e incollare il seguente link nella tua app IPTV preferita:
-—> "[https://github.com/iamgasgass/iptv_ita/raw/branch/main/lista.m3u](https://github.com/iamgasgass/iptv_ita/blob/main/lista.m3u)"
+—> "[[https://github.com/iamgasgass/iptv_ita/raw/branch/main/lista.m3u](https://github.com/iamgasgass/iptv_ita/blob/main/lista.m3u)](https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/lista.m3u)"
 
 ## Guida tv
 
@@ -28,6 +28,9 @@ La guida tv è offerta dal progetto "epgshare01"
 
 - OG Source code:
 —> https://forgejo.it/peppenamir/iptv_italia
+
+- OG Playlist link:
+—> https://forgejo.it/peppenamir/iptv_italia/raw/branch/main/lista.m3u
 
 **My current Fork is simply and basic running on GitHub**
 
