@@ -15,6 +15,7 @@
 
 - Copiare e incollare il seguente link nella tua app IPTV preferita:
 —> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/lista.m3u
+—> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/playlist_plus.m3u8
 
 ## Guida tv
 
@@ -22,9 +23,9 @@ La guida tv è offerta dal progetto "epgshare01"
 - Per utilizzarla copiare e incollale il seguente link nel vostra player preferito:
 —> "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
-## Project Fork
+## Projects Fork
 
-**This is a fork of the original project of peppenamir/iptv_italia**
+**This is a fork of the original project of peppenamir/iptv_italia  (Lista.m3u)**
 
 - OG Source code:
 —> https://forgejo.it/peppenamir/iptv_italia
@@ -33,6 +34,16 @@ La guida tv è offerta dal progetto "epgshare01"
 —> https://forgejo.it/peppenamir/iptv_italia/raw/branch/main/lista.m3u
 
 **My current Fork is simply and basic running on GitHub**
+
+
+**This is a fork of the original project of FREE-TV/IPTV  (playlist_plus.m3u8)**
+
+- OG Source code:
+—> https://github.com/Free-TV/IPTV
+
+- OG Playlist link:
+—> https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlists/playlist_italy.m3u8
+
 
 **SPECIAL SHOTOUT**
 
