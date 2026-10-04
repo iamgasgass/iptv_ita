@@ -19,9 +19,9 @@
 
   —> https://raw.githubusercontent.com/iamgasgass/iptv_ita/refs/heads/main/playlist_plus.m3u8
 
-## Guida tv
+## Guida TV
 
-La guida tv è offerta dal progetto "epgshare01"
+La Guida TV è offerta dal progetto "epgshare01"
 - Per utilizzarla copiare e incollale il seguente link nel vostra player preferito:
 —> "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
 
